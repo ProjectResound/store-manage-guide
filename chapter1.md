@@ -1,3 +1,14 @@
-# First Chapter
+# Contact
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Are you interested in Resound? Do you need some troubleshooting help?  Here are some ways to get in touch with us:
+
+## 
+
+## Technical bugs:
+
+louise.yang@scpr.org
+
+
+
+
+
