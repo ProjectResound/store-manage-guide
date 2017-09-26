@@ -7,4 +7,5 @@
 * [Contact](chapter1.md)
 * [How can I replace an audio file?](how-can-i-replace-an-audio-file.md)
 * [How can I edit file metadata?](how-can-i-edit-file-metadata.md)
+* [How do I delete audio?](how-do-i-delete-audio.md)
 
