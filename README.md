@@ -10,3 +10,9 @@ Supported formats:
 
 
 
+## About this guide:
+
+This is end-user documentation intended for producers, reporters, and digital editors whose responsibilities include uploading audio.
+
+
+
