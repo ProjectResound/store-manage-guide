@@ -8,7 +8,9 @@
 
 ###### Click the darker blue button to open up a file picker
 
-###### Fill in the title for this audio.  Try to be descriptive but brief.
+##### Fill in required metadata: title and contributor. These values will be encoded into the files themselves.
+
+###### For titles, try to be descriptive but brief.
 
 ###### Good titles:
 
@@ -21,7 +23,7 @@
    * All things considered
    * Larry talking
 
-###### Fill in contributors \(producers, reporters, narrators\). Separate contributors with a comma.
+###### Contributors can be producers, reporters, narrators, or speakers in the audio. Separate contributors with a comma.
 
 ###### Good contributors:
 
