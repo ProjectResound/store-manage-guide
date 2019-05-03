@@ -7,4 +7,5 @@
 * [How can I edit file metadata?](how-can-i-edit-file-metadata.md)
 * [How can I replace an audio file?](how-can-i-replace-an-audio-file.md)
 * [How do I delete audio?](how-do-i-delete-audio.md)
+* [How do I embed an audio player?](how-do-i-embed-an-audio-player.md)
 
